@@ -1,0 +1,14 @@
+c:\Users\jayng\Desktop\Education\study\College\1651\asm\asm2\Program\LMS\bin\Debug\net8.0\LMS.exe
+C:\Users\jayng\Desktop\Education\study\College\1651\asm\asm2\Program\LMS\bin\Debug\net8.0\LMS.deps.json
+C:\Users\jayng\Desktop\Education\study\College\1651\asm\asm2\Program\LMS\bin\Debug\net8.0\LMS.runtimeconfig.json
+c:\Users\jayng\Desktop\Education\study\College\1651\asm\asm2\Program\LMS\bin\Debug\net8.0\LMS.dll
+c:\Users\jayng\Desktop\Education\study\College\1651\asm\asm2\Program\LMS\bin\Debug\net8.0\LMS.pdb
+c:\Users\jayng\Desktop\Education\study\College\1651\asm\asm2\Program\LMS\obj\Debug\net8.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jayng\Desktop\Education\study\College\1651\asm\asm2\Program\LMS\obj\Debug\net8.0\LMS.AssemblyInfoInputs.cache
+c:\Users\jayng\Desktop\Education\study\College\1651\asm\asm2\Program\LMS\obj\Debug\net8.0\LMS.AssemblyInfo.cs
+c:\Users\jayng\Desktop\Education\study\College\1651\asm\asm2\Program\LMS\obj\Debug\net8.0\LMS.csproj.CoreCompileInputs.cache
+c:\Users\jayng\Desktop\Education\study\College\1651\asm\asm2\Program\LMS\obj\Debug\net8.0\LMS.dll
+c:\Users\jayng\Desktop\Education\study\College\1651\asm\asm2\Program\LMS\obj\Debug\net8.0\refint\LMS.dll
+c:\Users\jayng\Desktop\Education\study\College\1651\asm\asm2\Program\LMS\obj\Debug\net8.0\LMS.pdb
+C:\Users\jayng\Desktop\Education\study\College\1651\asm\asm2\Program\LMS\obj\Debug\net8.0\LMS.genruntimeconfig.cache
+C:\Users\jayng\Desktop\Education\study\College\1651\asm\asm2\Program\LMS\obj\Debug\net8.0\ref\LMS.dll
